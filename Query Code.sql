@@ -303,19 +303,3 @@ values(2020171728,'shahd','yasser',30200104746,'F',
 
 
 select * from members;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
